@@ -22,11 +22,11 @@
   ],
   "f8028372876eb8d38fb4571b18bdc30585c95087": [
     "virtualization\\hyperv_on_windows\\media\\Chat_65.png",
-    "virtualization\\windowscontainers\\media\\Chat_65.png"
+    "virtualization\\windowscontainers\\Media\\Chat_65.png"
   ],
   "215adae041390b1edb10b314dc7ce21f6b39592e": [
     "virtualization\\hyperv_on_windows\\media\\MeetsRequirements_65.png",
-    "virtualization\\windowscontainers\\media\\1.png"
+    "virtualization\\windowscontainers\\Media\\1.png"
   ],
   "7244a1a0ddcebfe36147f05577bceb7671592b96": [
     "virtualization\\hyperv_on_windows\\media\\whats_new.png"
@@ -92,7 +92,7 @@
     "virtualization\\hyperv_on_windows\\quick_start\\media\\new_switch_createbutton.png"
   ],
   "19e37da524322414c21e941fb1c902b3a361c2db": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\pause.png"
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\Pause.png"
   ],
   "50819aee09462e65ad3e58e1498aeb2100326434": [
     "virtualization\\hyperv_on_windows\\quick_start\\media\\POSH_CP2.png"
@@ -110,28 +110,28 @@
     "virtualization\\hyperv_on_windows\\quick_start\\media\\production_notepad.png"
   ],
   "b9da284951ca5bea7773ac6e0b4029fcd25c514d": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\reset.png"
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\Reset.png"
   ],
   "14f7db98c0da674b247f404a300b05fdff35f12d": [
     "virtualization\\hyperv_on_windows\\quick_start\\media\\restart_upd.png"
   ],
   "66caa4c366c1b65937a913bfb39e3af350c2d9f6": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\revert.png"
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\Revert.png"
   ],
   "80edad7cc988d2ca8346d2f785345ce6b5d36df4": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\save.png"
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\Save.png"
   ],
   "c1c71b98feb102a4e67772bfc2de875ec2af22dd": [
     "virtualization\\hyperv_on_windows\\quick_start\\media\\save_standard.png"
   ],
   "16cfc23957260ceb3b07ef55a8e4b79996d525ca": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\select_export1.png"
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\Select_Export1.png"
   ],
   "010b14ab9606fc78ab56eee192fa75bd3c9ce944": [
     "virtualization\\hyperv_on_windows\\quick_start\\media\\share_nic.png"
   ],
   "5ab1d8630e83b53afc73ae837c8d9409f0cfee96": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\shutdown.png"
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\Shutdown.png"
   ],
   "467fb70b2d1c32195b1ba908c08b294bb569eecd": [
     "virtualization\\hyperv_on_windows\\quick_start\\media\\standard_applied.png"
@@ -146,16 +146,16 @@
     "virtualization\\hyperv_on_windows\\quick_start\\media\\standard_notepad.png"
   ],
   "d5fe61997fe63333a11454f5890626ad201cf2a5": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\standard1.png"
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\Standard1.png"
   ],
   "600e67045b98582d4dc3d087dcd2ae2a6d4be54c": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\start.png"
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\Start.png"
   ],
   "c830f164a513bd6125dc1a30f7cf1990e1c9470a": [
     "virtualization\\hyperv_on_windows\\quick_start\\media\\SystemInfo_upd.png"
   ],
   "0ace2b0a0fb0268ec72373ff912836157cddbda5": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\turnoff.png"
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\Turnoff.png"
   ],
   "2d6238ee2a2ab32abb8c554ed523d991dd2872a5": [
     "virtualization\\hyperv_on_windows\\quick_start\\media\\virtual_switch_manager1.png"
@@ -197,13 +197,13 @@
     "virtualization\\hyperv_on_windows\\user_guide\\export_import.md"
   ],
   "5f21c845594a8663b7458e86c121563d3b199e4d": [
-    "virtualization\\hyperv_on_windows\\user_guide\\media\\HyperVManager-ConnectToHost.png"
+    "virtualization\\hyperv_on_windows\\user_guide\\media\\HyperVManager-ConnectToHost.PNG"
   ],
   "480f125229e908bd46da36baea6c1628b3b10fb3": [
-    "virtualization\\hyperv_on_windows\\user_guide\\media\\HyperVManager-ConnectToLocalHost.png"
+    "virtualization\\hyperv_on_windows\\user_guide\\media\\HyperVManager-ConnectToLocalHost.PNG"
   ],
   "09140851fb0b7b0d268a1beda2d6423fe3c24e1a": [
-    "virtualization\\hyperv_on_windows\\user_guide\\media\\HyperVManager-ConnectToRemoteHost.png"
+    "virtualization\\hyperv_on_windows\\user_guide\\media\\HyperVManager-ConnectToRemoteHost.PNG"
   ],
   "b1547cd8ba6a8ff669e679d64b79773d3878beea": [
     "virtualization\\hyperv_on_windows\\user_guide\\media\\HyperVManager-ConnectToRemoteHostAltCreds.png"
@@ -254,10 +254,10 @@
     "virtualization\\windowscontainers\\EULA.md"
   ],
   "367d56d6ba500771f4a03e2296eca6bb079d891e": [
-    "virtualization\\windowscontainers\\media\\explore.png"
+    "virtualization\\windowscontainers\\Media\\explore.png"
   ],
   "7de8389ab2b14e0926c142bf61be560037fc2658": [
-    "virtualization\\windowscontainers\\media\\question.png"
+    "virtualization\\windowscontainers\\Media\\question.png"
   ],
   "c691018b600d3e8e1831b1d1d6466a5bb9cddd83": [
     "virtualization\\windowscontainers\\quick_start\\azure_setup.md"
@@ -324,5 +324,8 @@
   ],
   "c9a613b41195c01471a39d59e0fccdb2e226b08a": [
     "virtualization\\windowscontainers\\TOC.md"
+  ],
+  "d6a08817ae44d1406bb13603138aed015ca0f7ef": [
+    "README.md"
   ]
 }
